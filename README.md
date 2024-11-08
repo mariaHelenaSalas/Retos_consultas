@@ -68,3 +68,20 @@
 
 ## consulta 14
 ![alt text](image-10.png)
+
+## consulta 15
+![alt text](image-11.png)
+
+## consulta 16
+![alt text](image-12.png)
+
+## consulta 17
+![alt text](image-13.png)
+
+## consulta 18
+![alt text](image-14.png)
+
+## consulta 19
+![alt text](image-15.png)
+
+## consulta 20
